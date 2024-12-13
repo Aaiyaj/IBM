@@ -13,7 +13,7 @@
   ],
   "attributes": [
     {
-      "name": "BankName",
+      "name": "bankName",
       "description": "Bank Name property",
       "valueType": "string"
     },
@@ -33,7 +33,7 @@
       ],
       "attribute-references": [
         {
-          "name": "BankName"
+          "name": "bankName"
         },
         {
           "name": "Status"
